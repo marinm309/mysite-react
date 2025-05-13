@@ -229,46 +229,46 @@ function App() {
                   <div className="all-projects">
                       <a className="project" href="https://python-web-final-project-production.up.railway.app/" target="_blank">
                         <div className="project-image">
-                            <img src="/temp-project.png" alt="" />
+                            <img src="/ecommerce.png" alt="" />
                         </div>
                         <div className="project-name">
                             <p>Online Store</p>
                         </div>
                       </a>
 
-                      <a className="project" href="https://python-web-final-project-production.up.railway.app/" target="_blank">
+                      <a className="project" href="https://sushi-street.bg/" target="_blank">
                         <div className="project-image">
-                            <img src="/temp-project.png" alt="" />
+                            <img src="/sushi.png" alt="" />
                         </div>
                         <div className="project-name">
-                            <p>Online Store</p>
+                            <p>Sushi Restaurant Store</p>
                         </div>
                       </a>
 
-                      <a className="project" href="https://python-web-final-project-production.up.railway.app/" target="_blank">
+                      <a className="project" href="https://path-finder-react-marin.netlify.app/" target="_blank">
                         <div className="project-image">
-                            <img src="/temp-project.png" alt="" />
+                            <img src="/path_finder.png" alt="" />
                         </div>
                         <div className="project-name">
-                            <p>Online Store</p>
+                            <p>Path Finder</p>
                         </div>
                       </a>
 
-                      <a className="project" href="https://python-web-final-project-production.up.railway.app/" target="_blank">
+                      <a className="project" href="https://instagramclonem.up.railway.app/" target="_blank">
                         <div className="project-image">
-                            <img src="/temp-project.png" alt="" />
+                            <img src="/instagram.png" alt="" />
                         </div>
                         <div className="project-name">
-                            <p>Online Store</p>
+                            <p>Instagram Clone</p>
                         </div>
                       </a>
 
-                      <a className="project" href="https://python-web-final-project-production.up.railway.app/" target="_blank">
+                      <a className="project" href="https://sudoku-solver-react-marin.netlify.app/" target="_blank">
                         <div className="project-image">
-                            <img src="/temp-project.png" alt="" />
+                            <img src="/sudoku_solver.png" alt="" />
                         </div>
                         <div className="project-name">
-                            <p>Online Store</p>
+                            <p>Sudoku Solver</p>
                         </div>
                       </a>
 
